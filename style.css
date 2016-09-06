@@ -11,7 +11,7 @@
 }
 
 /* show the desktop search box if mobile isn't using the mobile menu */
-.fl-nav .fl-search-input {
+.fl-page-header .fl-search-input {
     display: block !important;
 }
  /* show the mobile search box when showing the mobile menu */
