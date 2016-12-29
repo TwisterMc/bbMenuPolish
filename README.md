@@ -11,3 +11,7 @@ This is still in early development so I'm sure there are bugs and I'm sure the c
 That's it. There are no options yet.
 
 [BeaverBuilder](https://www.wpbeaverbuilder.com/?fla=468) is required.
+
+###Preview
+
+![before after screenshot](preview/before-after.jpg "Before and After")
