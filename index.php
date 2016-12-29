@@ -3,7 +3,7 @@
 * Plugin Name: Beaver Builder Menu Polish
 * Plugin URI: http://www.twistermc.com/
 * Description: Adding drop down menu indicators and search to mobile.
-* Version: 0.1
+* Version: 0.2
 * Author: Thomas McMahon
 * Author URI: http://www.twistermc.com/
 * License: A "Slug" license name e.g. GPL12
