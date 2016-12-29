@@ -1,12 +1,12 @@
 /* add the drop down indicator to parent */
-.menu-item-has-children a:after {content: " ▾"; } 
+.fl-page-header .menu-item-has-children a:after {content: " ▾"; }
 
 /* remove drop down indicator from children */
-.sub-menu a:after {content: ""; }
+.fl-page-header .sub-menu a:after {content: ""; }
 
 /* hide the mobile search box if mobile isn't using the mobile menu */
 /* yes there are a lot of !importants, but it's a start */
-.fl-search-input {
+.fl-page-header .fl-search-input {
     display: none !important;
 }
 
@@ -14,13 +14,13 @@
 .fl-page-header .fl-search-input {
     display: block !important;
 }
- /* show the mobile search box when showing the mobile menu */
+/* show the mobile search box when showing the mobile menu */
 @media (max-width:768px) {
-    .fl-search-input {
+    .fl-page-header .fl-search-input {
         display: block !important;
     }
-    
-    .fl-search-input {
+
+    .fl-page-header .fl-search-input {
         border-radius: 100px !important;
         margin: 5px auto !important;
         max-width: 96%;
