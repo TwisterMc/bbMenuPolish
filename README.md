@@ -1,6 +1,6 @@
 # bbMenuPolish Read Me
 
-This is still in early development so I'm sure there are bugs and I'm sure the code could be cleaned up, but it's a good start.
+This plugin will automatically add drop down indicators to header menus if there are children. It'll also add a search box below the header for mobile devices since BeaverBeaver builder doesn't have search on mobile.
 
 ###To Use
 1. Download the files.
@@ -15,3 +15,6 @@ That's it. There are no options yet.
 ###Preview
 
 ![before after screenshot](preview/before-after.jpg "Before and After")
+
+Note: I just threw this plugin together. I don't think there are any big issues, but I'm sure there are use cases that I haven't come across yet. Let me know when you come across something.
+
